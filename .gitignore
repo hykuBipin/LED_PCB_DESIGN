@@ -1,0 +1,13 @@
+# KiCad local files
+*.kicad_prl
+fp-info-cache
+
+# KiCad backups
+*-backups/
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.bak
+*.tmp
